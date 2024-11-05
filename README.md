@@ -31,8 +31,8 @@ I am a dedicated Full Stack Developer student passionate about creating apps and
 
 ### 📈 Stats 📈
 
-![Tiaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tyroneexe&show_icons=true&theme=dracula)
+![Tiaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiaanBothma&show_icons=true&theme=dracula)
 
 ### 🔊 Most used Languages 🔊
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tyroneexe&langs_count=8&layout=donut&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiaanBothma&langs_count=8&layout=donut&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff)](https://github.com/anuraghazra/github-readme-stats)
